@@ -32,6 +32,5 @@ The Netflix Dashboard Project uses Tableau to analyse Netflix titles data, provi
 
 Access the interactive Netflix Dashboard on Tableau Public [here][(https://public.tableau.com/views/NETFLIXDashboard_16955367220370/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=vis_share_link)](https://public.tableau.com/app/profile/kyle.calbert/vis/NetflixDashboard_17091191816890/Netflix_1).
 
-## Conclusion
+<img width="718" alt="Screenshot 2024-04-24 at 13 15 10" src="https://github.com/kylecalbert/Netflix-Dashbaord/assets/20683951/febbe872-4950-4f09-b131-b2b45d077a95">
 
-The Netflix Dashboard Project provides a comprehensive view of Netflix content trends and insights. By exploring the dashboard, users can gain valuable insights into the Netflix catalog and make informed decisions.
