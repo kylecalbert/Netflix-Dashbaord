@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Netflix Dashboard Project uses Tableau to analyze Netflix titles data, providing insights into trends, country-wise distribution, and top genres.
+The Netflix Dashboard Project uses Tableau to analyse Netflix titles data, providing insights into trends, country-wise distribution, and top genres.
 
-## Key Visualizations
+## Key Visualisations
 
 ### Area Chart
 
@@ -12,8 +12,8 @@ The Netflix Dashboard Project uses Tableau to analyze Netflix titles data, provi
 - **Process:** Utilise the date added column for the x-axis, count distinct of show id for the y-axis, and differentiate between TV shows and movies using color.
 
 ### Map Chart
-- **Objective:** Visualize the distribution of Netflix content across different countries.
-- **Process:** Utilsze a map chart to represent the count of movies and TV shows by country. Darker shades indicate higher counts.
+- **Objective:** Visualise the distribution of Netflix content across different countries.
+- **Process:** Utilsse a map chart to represent the count of movies and TV shows by country. Darker shades indicate higher counts.
 
 ### Histogram
 - **Objective:** Identify the top genres in the Netflix catalog.
@@ -21,7 +21,7 @@ The Netflix Dashboard Project uses Tableau to analyze Netflix titles data, provi
 
 ### Packed Bubble Chart
 
-- **Objective:** Analyze the distribution of movies and TV shows by type.
+- **Objective:** Analyse the distribution of movies and TV shows by type.
 - **Process:** Use a packed bubble chart to represent the percentage distribution of movies and TV shows by type.
 
 ### Bar Chart
@@ -30,7 +30,7 @@ The Netflix Dashboard Project uses Tableau to analyze Netflix titles data, provi
 
 ## Dashboard Link
 
-Access the interactive Netflix Dashboard on Tableau Public [here][(https://public.tableau.com/views/NETFLIXDashboard_16955367220370/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/app/profile/kyle.calbert/viz/NetflixDashboard_17091191816890/Netflix_1).
+Access the interactive Netflix Dashboard on Tableau Public [here][(https://public.tableau.com/views/NETFLIXDashboard_16955367220370/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=vis_share_link)](https://public.tableau.com/app/profile/kyle.calbert/vis/NetflixDashboard_17091191816890/Netflix_1).
 
 ## Conclusion
 
